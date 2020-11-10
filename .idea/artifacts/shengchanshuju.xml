@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="shengchanshuju">
+    <output-path>$PROJECT_DIR$/../data2020/out/shengchanshuju</output-path>
+    <root id="archive" name="shengchanshuju.jar" />
+  </artifact>
+</component>

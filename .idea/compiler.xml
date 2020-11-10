@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dw_logger" />
+        <module name="dwcommon" />
+        <module name="dwflumeintercetor" />
+        <module name="mocker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="data2020" target="1.8" />
+      <module name="dw_logger" target="1.8" />
+      <module name="dwcommon" target="1.8" />
+      <module name="dwflumeintercetor" target="1.8" />
+      <module name="mocker" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

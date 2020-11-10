@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data2020.iml" filepath="$PROJECT_DIR$/data2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data2020/dw-logger/dw_logger.iml" filepath="$PROJECT_DIR$/../data2020/dw-logger/dw_logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data2020/dw-common/dwcommon.iml" filepath="$PROJECT_DIR$/../data2020/dw-common/dwcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data2020/dw-flume-intercetor/dwflumeintercetor.iml" filepath="$PROJECT_DIR$/../data2020/dw-flume-intercetor/dwflumeintercetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data2020/mocker/mocker.iml" filepath="$PROJECT_DIR$/../data2020/mocker/mocker.iml" />
+    </modules>
+  </component>
+</project>
